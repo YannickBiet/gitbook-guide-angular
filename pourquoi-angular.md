@@ -94,5 +94,5 @@ Chaque version est **maintenue pendant 18 mois** et reste compatible avec les fo
 
 [https://github.com/angular/angular/blob/master/docs/RELEASE\_SCHEDULE.md](https://github.com/angular/angular/blob/master/docs/RELEASE_SCHEDULE.md)
 
-AngularJS 1.7 est prévu pour juin 2018 et rentre en Long-Term Support jusqu'au **30 juin 2021**. 
+AngularJS 1.7, la dernière version de Angular JS est sortie en Mai 2018 et rentre en Long-Term Support (LTS) à partir du **1er Juillet 2018** jusqu'au **30 juin 2021**. 
 
